@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400..700&display=swap");
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-mainFont: "Noto Naskh Arabic", serif;
+  --color-main: #e2b354;
+}
+.active {
+ border-bottom: 4px solid #593015;
+ padding-bottom: 14px;
+ font-weight: bold;
+ transition: all 0.3s;
+}

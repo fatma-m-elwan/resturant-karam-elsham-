@@ -1,0 +1,1113 @@
+{
+  "recipes": [
+     {
+      "id": 1,
+      "category": "سندوتشات الشاورما",
+      "pricee": 95.00,
+      "image": "./../src/assets/categories/ساندوتشات شاورما icon.jpeg" ,
+      "data" : [
+           {
+      "id": 1,
+      "pricee": 95.00,
+      "name": "ساندوتش شاورما دجاج",
+      "category": "ساندوتشات الشاورما ",
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات شاورما/ساندوتش شاورما دجاج.jpg" ,
+      "topDishes" : "افضل الاطباق",
+      "price": [
+        { "size": "L", "price": 80.00 },
+        { "size": "XL", "price": 95.00 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ساندوتش شاورما لحم فرنساوي",
+      "pricee": 130.00,
+      "category": "ساندوتشات الشاورما ",
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "./../src/assets/recipes/ساندوتشات شاورما/ساندوتش شاورما لحم فرنساوي.jpg" ,
+      "price": [
+        { "size": "L", "price": 130.00 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ساندوتش كيزر دجاج",
+      "category": "ساندوتشات الشاورما ",
+      "pricee": 60.00,
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات شاورما/ساندوتش كيزر دجاج.jpg" ,
+      "price": [
+        { "size": "XL", "price": 60.00 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "ساندوتش كيزر لحم",
+      "category": "ساندوتشات الشاورما ",
+      "pricee": 80.00,
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات شاورما/ساندوتش كيزر لحم.jpg" ,
+      "price": [
+        { "size": "XL", "price": 80.00 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "ساندوتش مكس شاورما",
+      "category": "ساندوتشات الشاورما ",
+      "pricee": 115.00,
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات شاورما/ساندوتش مكس شاورما.jpg" ,
+      "price": [
+        { "size": "L", "price": 95.00 },
+        { "size": "XL", "price": 115.00 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": " ساندوتش شاورما لحم",
+      "category": "ساندوتشات الشاورما ",
+      "pricee": 125.00,
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات شاورما/سانودتش شاورما لحم.jpg" ,
+      "price": [
+        { "size": "L", "price": 110.00 },
+        { "size": "XL", "price": 125.00 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ساندوتش دجاج فرنساوي",
+      "category": "ساندوتشات الشاورما ",
+      "pricee": 95.00,
+      "prepTime": 15,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات شاورما/وجبة شاورما دجاج فرنساوي.jpg" ,
+      "price": [
+        { "size": "L", "price": 95.00 }
+      ]
+    }
+
+      ]
+    } ,
+     {
+      "id": 2,
+      "category": "الماريا",
+      "pricee": 130.00,
+      "image": "./../src/assets/categories/تشيزي ماريا.jpg" ,
+      "data" : [
+ {
+      "id": 39,
+      "name": "وجبة ماريا شاورما دجاج",
+      "pricee": 130.00,
+      "category": "الماريا",
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/الماريا/وجبة ماريا شاورما دجاج.jpg" ,
+       "price": [
+        { "size": "L", "price": 130.00 }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "وجبة ماريا شاورما لحم",
+      "pricee": 150.00,
+      "category": "الماريا",
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/الماريا/وجبة ماريا شاورما لحم.jpg" ,
+       "price": [
+        { "size": "L", "price": 150.00 }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "تشيزي ماريا",
+      "category": "الماريا",
+      "pricee": 155.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/الماريا/تشيزي ماريا.jpg" ,
+       "price": [
+        { "size": "L", "price": 155.00 }
+      ]
+    }
+
+      ]
+    } ,
+     {
+      "id": 3,
+      "category": "وجبات الشاورما",
+      "pricee": 165.00,
+      "image": "./../src/assets/categories/وجبة شاورما عربي دجاج.jpg" , 
+      "data" : [
+{
+      "id": 59,
+      "name": "وجبة شاورما عربي" ,
+      "category": "وجبات الشاورما",
+      "pricee": 135.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "topDishes" : "افضل الاطباق",
+      "image": "../src/assets/recipes/وجبات الشاورما/وجبة شاورما عربي دجاج.jpg" ,
+      "price": [
+        { "size": "L", "price": 135.00 , "typeMeal" : "دجاج" },
+        { "size": "L", "price": 165.00 , "typeMeal" : "لحمة" }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "وجبة شاورما عربي دبل" ,
+      "category": "وجبات الشاورما",
+      "pricee": 250.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "topDishes" : "افضل الاطباق",
+      "image": "../src/assets/recipes/وجبات الشاورما/وجبة شاورما عربي دبل دجاج.jpg" ,
+      "price": [
+        { "size": "L", "price": 210.00 , "typeMeal" : "دجاج" },
+        { "size": "L", "price": 270.00 , "typeMeal" : "لحمة" },
+        { "size": "L", "price": 250.00 , "typeMeal" : "مكس" }
+      ]
+    }
+      ]
+    } ,
+    {
+      "id": 4,
+      "category": "التنين",
+      "pricee": 180.00,
+      "image": "./../src/assets/categories/سوبريم التنين كرسبي.jpg" ,
+      "data" : [
+    {
+      "id": 16,
+      "name": "تنين شاورما فرنساوي فراخ",
+      "category": "ساندوتشات التنين ",
+      "pricee": 180.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات التنين/تنين شاورما فرنساوي فراخ.jpg" ,
+       "price": [
+        { "size": "XL", "price": 180.00 }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "تنين شاورما فرنساوي لحم",
+      "category": "ساندوتشات التنين ",
+      "pricee": 215.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات التنين/تنين شاورما فرنساوي لحم.jpg" ,
+       "price": [
+        { "size": "XL", "price": 215.00 }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "تنين زنجر",
+      "category": "ساندوتشات التنين ",
+      "pricee": 200.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات التنين/تنين زنجر.jpg" ,
+       "price": [
+        { "size": "XL", "price": 200.00 }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "تنين كرسبي",
+      "category": "ساندوتشات التنين ",
+      "pricee": 200.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات التنين/تنين زنجر.jpg" ,
+       "price": [
+        { "size": "XL", "price": 200.00 }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "سوبريم التنين كرسبي",
+      "category": "ساندوتشات التنين ",
+      "pricee": 220.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "image": "../src/assets/recipes/ساندوتشات التنين/سوبريم التنين كرسبي.jpg" ,
+       "price": [
+        { "size": "XL", "price": 220.00 }
+      ]
+    }
+      ]
+    } ,
+    {
+      "id": 5,
+      "category": "بروستد",
+      "pricee": 390.00,
+      "image": "./../src/assets/categories/بروستد icon.jpg",
+      "data" : [
+        {
+        "id": 42,
+        "name": "دجاج بروستد",
+        "category": "بروستد",
+        "pricee": 390.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/بروستد/دجاج بروستد.jpg" ,
+        "price": [
+          { "size": "L", "price": 390.00}
+        ]
+        },
+        {
+          "id": 43,
+          "name": "دجاج بروستد حار",
+          "pricee": 390.00,
+          "category": "بروستد",
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بروستد/دجاج بروستد.jpg" ,
+          "price": [
+            { "size": "L", "price": 390.00}
+          ]
+        },
+        {
+          "id": 44,
+          "name": "نصف دجاج بروستد بالأرز",
+          "pricee": 250.00,
+          "category": "بروستد",
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بروستد/نصف دجاج بروستد بالأرز.jpg" ,
+          "price": [
+            { "size": "L", "price": 205.00}
+          ]
+        },
+        {
+          "id": 45,
+          "name": "نصف دجاج بروستد حار " ,
+          "category": "بروستد",
+          "pricee": 205.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بروستد/نصف دجاج بروستد بالأرز.jpg" ,
+          "price": [
+            { "size": "L", "price": 205.00 }
+          ]
+        },
+        {
+          "id": 46,
+          "name": "وجبة 2 قطعة بروست اوريجينال بالأرز" ,
+          "pricee": 130.00,
+          "category": "بروستد",
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بروستد/وجبة 2 قطعة بروست اوريجينال بالأرز.jpg" ,
+          "price": [
+            { "size": "L", "price": 130.00 }
+          ]
+        },
+        {
+          "id": 47,
+          "name": "وجبة 2 قطعة بروست حارة بالأرز" ,
+          "pricee": 130.00,
+          "category": "بروستد",
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بروستد/وجبة 2 قطعة بروست اوريجينال بالأرز.jpg" ,
+          "price": [
+            { "size": "L", "price": 130.00 }
+          ]
+        }
+      ]
+    } ,
+    {
+      "id": 6,
+      "category": "بوكسات الكرم",
+      "pricee": 460.00,
+      "image": "./../src/assets/categories/وجبة بوكس مكس الجوكر .jpg",
+      "data" : [
+        {
+          "id": 56,
+          "name": "بوكس الكرم" ,
+          "category": "بوكسات الكرم",
+          "pricee": 460.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بوكسات الكرم/بوكس الكرم.jpg" ,
+          "price": [
+            { "size": "XL", "price": 460.00 }
+          ]
+        },
+        {
+          "id": 57,
+          "name": "بوكس مكس الجوكر" ,
+          "category": "بوكسات الكرم",
+          "pricee": 500.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بوكسات الكرم/وجبة بوكس مكس الجوكر .jpg" ,
+          "price": [
+            { "size": "XL", "price": 500.00 }
+          ]
+        },
+        {
+          "id": 58,
+          "name": "بوكس الصحاب" ,
+          "category": "بوكسات الكرم",
+          "pricee": 280.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/بوكسات الكرم/بوكس الصحاب.jpg" ,
+          "price": [
+            { "size": "L", "price": 280.00 }
+          ]
+        }
+      ]
+    } ,
+    {
+      "id": 7,
+      "category": "سندوتشات الغربي",
+      "pricee": 95.00,
+      "image": "./../src/assets/categories/سندوتشات الغربي icon.jpg",
+      "data" : [
+        {
+          "id": 8,
+          "name": "ساندوتش زنجر سوري",
+          "category": "ساندوتشات غربي ",
+          "pricee": 95.00,
+          "prepTime": 15,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/ساندوتش زنجر سوري.jpg" ,
+          "price": [
+            { "size": "L", "price": 95.00 }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "ساندوتش زنجر فرنساوي",
+          "category": "ساندوتشات غربي ",
+          "pricee": 95.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/سندوتش زنجر فرنساوي.jpg" ,
+          "price": [
+            { "size": "L", "price": 95.00 }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "ساندوتش كرسبي فرنساوي",
+          "category": "ساندوتشات غربي ",
+          "pricee": 95.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/ساندوتش كرسبي فرنساوي.jpg" ,
+          "price": [
+            { "size": "L", "price": 95.00 }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "ساندوتش كرسبي سوري",
+          "category": "ساندوتشات غربي ",
+          "pricee": 95.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/ساندوتش كرسبي سوري.jpg" ,
+          "price": [
+            { "size": "L", "price": 95.00 }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "ساندوتش سوبريم كرسبى",
+          "category": "ساندوتشات غربي ",
+          "pricee": 105.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/ساندوتش سوبريم كرسبى.jpg" ,
+          "price": [
+            { "size": "L", "price": 105.00 }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "ساندوتش سوبريم زنجر",
+          "category": "ساندوتشات غربي ",
+          "pricee": 105.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/سندوتش سوبريم زنجر.jpg" ,
+          "price": [
+            { "size": "L", "price": 105.00 }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "ساندوتش برجر لحم سنجل",
+          "category": "ساندوتشات غربي ",
+          "pricee": 105.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/سندوتش برجر لحم سنجل.jpg" ,
+          "price": [
+            { "size": "L", "price": 105.00 }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "ساندوتش برجر لحم جامبو",
+          "category": "ساندوتشات غربي ",
+          "pricee": 165.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ساندوتشات غربي/سندوتش برجر لحم جامبو.jpg" ,
+          "price": [
+            { "size": "XL", "price": 165.00 }
+          ]
+        } 
+      ]
+    } ,
+    {
+      "id": 8,
+      "category": "وجبات الغربي",
+      "pricee": 150.00,
+      "image": "./../src/assets/categories/ريزو الكرم.jpg",
+      "data" : [
+        {
+          "id": 38,
+          "name": "ريزو الكرم",
+          "category": "ريزو",
+          "pricee": 150.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/ريزو/ريزو الكرم.jpg" ,
+          "price": [
+            { "size": "M", "price": 95.00 },
+            { "size": "L", "price": 150.00 }
+          ]
+        }
+      ]
+    } ,
+    {
+      "id": 9,
+      "category": "فته الشاورما",
+      "pricee": 110.00,
+      "image": "./../src/assets/categories/فته icon.jpg",
+      "data" : [
+        {
+      "id": 52,
+      "name": "فتة شاورما دجاج" ,
+      "category": "فتة الشاورما",
+      "pricee": 150.00,
+      "prepTime": 10,
+      "cookTime": 10,
+      "available": true,
+      "topDishes" : "افضل الاطباق",
+      "image": "../src/assets/recipes/فتة الشاورما/فتة شاورما دجاج.jpg" ,
+      "price": [
+        { "size": "M", "price": 95.00 },
+        { "size": "L", "price": 110.00 },
+        { "size": "XL", "price": 150.00 }
+      ]
+        },
+        {
+          "id": 53,
+          "name": "فتة شاورما لحم" ,
+          "category": "فتة الشاورما",
+          "pricee": 170.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/فتة الشاورما/فتة شاورما لحم.jpg" ,
+          "price": [
+            { "size": "M", "price": 100.00 },
+            { "size": "L", "price": 130.00 },
+            { "size": "XL", "price": 170.00 }
+          ]
+        },
+        {
+          "id": 54,
+          "name": "فتة مكس شاورما" ,
+          "category": "فتة الشاورما",
+          "pricee": 160.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/فتة الشاورما/فتة مكس شاورما.jpg" ,
+          "price": [
+            { "size": "L", "price": 120.00 },
+            { "size": "XL", "price": 160.00 }
+          ]
+        }
+      ]
+    } ,
+    {
+      "id": 10,
+      "category": "  قنبلة الكرم",
+      "pricee": 120.00,
+      "image": "./../src/assets/categories/قنبلة الكرم.jpg",
+      "data" : [
+        {
+          "id": 55,
+          "name": "قنبلة الكرم" ,
+          "category": "قنبلة الكرم",
+          "pricee": 155.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/قنبلة الكرم/قنبلة الكرم.jpg" ,
+          "price": [
+            { "size": "M", "price": 120.00 },
+            { "size": "L", "price": 155.00 }
+          ]
+        }
+      ]
+    } ,
+    {
+      "id": 11,
+      "category": " الديناصور ",
+            "pricee": 175.00,
+      "image": "./../src/assets/categories/تربل ديناصور .jpg",
+      "data" : [
+        {
+          "id": 48,
+          "name": "دبل ديناصور" ,
+          "category": "الديناصور",
+          "pricee": 175.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/الديناصور/دبل ديناصور.jpg" ,
+          "price": [
+            { "size": "L", "price": 175.00 }
+          ]
+        },
+        {
+          "id": 49,
+          "name": "تربل ديناصور" ,
+          "category": "الديناصور",
+          "pricee": 250.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/الديناصور/تربل ديناصور .jpg" ,
+          "price": [
+            { "size": "XL", "price": 250.00 }
+          ]
+        }
+      ]
+    } ,
+    {
+      "id": 12,
+      "category": " الكريب ",
+      "pricee": 85.00,
+      "image": "./../src/assets/categories/كريب icon.jpeg",
+      "data" : [
+        {
+          "id": 26,
+          "name": "كريب شاورما دجاج",
+          "category": "كريب",
+          "pricee": 85.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "topDishes" : "افضل الاطباق",
+          "image": "../src/assets/recipes/كريب//كريب شاورما دجاج.jpg" ,
+          "price": [
+            { "size": "L", "price": 85.00 }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "كريب شاورما لحم",
+          "category": "كريب",
+          "pricee": 100.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب شاورما لحم.jpg" ,
+          "price": [
+            { "size": "L", "price": 100.00 }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "كريب بانيه كرسبى",
+          "category": "كريب",
+          "pricee": 100.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب بانيه كرسبى.jpg" ,
+          "price": [
+            { "size": "L", "price": 100.00 }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "كريب بسطرمة",
+          "category": "كريب",
+          "pricee": 85.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب بسطرمة.jpg" ,
+          "price": [
+            { "size": "M", "price": 85.00 }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "كريب بطاطس",
+          "category": "كريب",
+          "pricee": 55.00,
+
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب بطاطس.jpg" ,
+          "price": [
+            { "size": "M", "price": 55.00 }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "كريب زنجر",
+          "category": "كريب",
+          "pricee": 100.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب زنجر.jpg" ,
+          "price": [
+            { "size": "L", "price": 100.00 }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "كريب سجق",
+          "category": "كريب",
+          "pricee": 70.00,
+
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب سجق.jpg" ,
+          "price": [
+            { "size": "M", "price": 70.00 }
+          ]
+        },
+        {
+          "id": 33,
+          "name": "كريب سوسيس",
+          "category": "كريب",
+          "pricee": 65.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب سوسيس.jpg" ,
+          "price": [
+            { "size": "M", "price": 65.00 }
+          ]
+        },
+        {
+          "id": 34,
+          "name": "كريب شوكولاته",
+          "category": "كريب",
+          "pricee": 40.00,
+
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب شوكولاتة.jpg" ,
+          "price": [
+            { "size": "M", "price": 40.00 }
+          ]
+        },
+        {
+          "id": 35,
+          "name": "كريب مكس جبن",
+          "category": "كريب",
+          "pricee": 70.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب مكس جبن.jpg" ,
+          "price": [
+            { "size": "M", "price": 70.00 }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "كريب مكس لحم",
+          "category": "كريب",
+          "pricee": 100.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب مكس لحم.jpg" ,
+          "price": [
+            { "size": "L", "price": 100.00 }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "كريب مناجم",
+          "category": "كريب",
+          "pricee": 105.00,
+          "prepTime": 10,
+          "cookTime": 10,
+          "available": true,
+          "image": "../src/assets/recipes/كريب//كريب مناجم.jpg" ,
+          "price": [
+            { "size": "L", "price": 105.00 }
+          ]
+        }
+
+      ]
+    } ,
+     {
+      "id": 13,
+      "category": " الفراخ المشوية ",
+      "pricee": 365.00,
+      "image": "./../src/assets/categories/الفراخ المشويه icon.jpeg",
+      "data" : [
+        {
+        "id": 49,
+        "name": "دجاج مشوي سوري" ,
+        "category": "الفراخ المشوية",
+        "pricee": 365.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "topDishes" : "افضل الاطباق",
+        "image": "../src/assets/recipes/الفراخ المشوية/دجاج مشوي سورى.jpg" ,
+        "price": [
+        { "size": "L", "price": 365.00 }
+        ]
+        },
+        {
+        "id": 50,
+        "name": " نص دجاجة مشوية سوري" ,
+        "category": "الفراخ المشوية",
+          "pricee": 205.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "topDishes" : "افضل الاطباق",
+        "image": "../src/assets/recipes/الفراخ المشوية/نص دجاجة مشوية سورى.jpg" ,
+        "price": [
+        { "size": "L", "price": 205.00 }
+        ]
+        },
+        {
+        "id": 51,
+        "name": "  دجاج مشوي بدون ارز" ,
+        "category": "الفراخ المشوية",
+          "pricee": 350.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/الفراخ المشوية/دجاج مشوي بدون ارز.jpg" ,
+        "price": [
+        { "size": "L", "price": 350.00 }
+        ]
+        },
+        {
+        "id": 52,
+        "name": " نص دجاجة مشوية بدون ارز" ,
+        "category": "الفراخ المشوية",
+          "pricee": 190.00,
+
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/الفراخ المشوية/نصف دجاج مشوي بدون ارز.jpg" ,
+        "price": [
+        { "size": "L", "price": 190.00 }
+        ]
+        }
+      ]
+    } ,
+    {
+      "id": 14,
+      "category": " سندوتشات البطاطس ",
+            "pricee": 45.00,
+
+      "image": "./../src/assets/categories/باكيت بطاطس.jpg",
+      "data" : [
+        {
+        "id": 21,
+        "name": "ساندوتش بطاطس فرنساوى",
+        "category": "ساندوتشات البطاطس ",
+          "pricee": 45.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/ساندوتشات البطاطس/ساندوتش بطاطس فرنساوى.jpg" ,
+        "price": [
+        { "size": "M", "price": 45.00 }
+        ]
+        },
+        {
+        "id": 22,
+        "name": "ساندوتش بطاطس سوري",
+        "category": "ساندوتشات البطاطس ",
+          "pricee": 40.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/ساندوتشات البطاطس/ساندوتش بطاطس سوري.jpg" ,
+        "price": [
+        { "size": "M", "price": 40.00 }
+        ]
+        },
+        {
+        "id": 23,
+        "name": "شيدر فرايز",
+        "category": "ساندوتشات البطاطس ",
+          "pricee": 50.00,
+
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/ساندوتشات البطاطس/شيدر فرايز.jpg" ,
+        "price": [
+        { "size": "M", "price": 50.00 }
+        ]
+        },
+        {
+        "id": 24,
+        "name": "بطاطس بالجبنة الشيدر",
+        "category": "ساندوتشات البطاطس ",
+          "pricee": 50.00,
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/ساندوتشات البطاطس/بطاطس بالجبنة الشيدر.jpg" ,
+        "price": [
+        { "size": "M", "price": 50.00 }
+        ]
+        },
+        {
+        "id": 25,
+        "name": "باكيت بطاطس",
+        "category": "ساندوتشات البطاطس ",
+          "pricee": 30.00,
+
+        "prepTime": 10,
+        "cookTime": 10,
+        "available": true,
+        "image": "../src/assets/recipes/ساندوتشات البطاطس/باكيت بطاطس.jpg" ,
+        "price": [
+        { "size": "M", "price": 30.00 }
+        ]
+        }
+      ]
+    } ,
+    {
+      "id": 15,
+      "category": " المشروبات الباردة ",
+      "pricee": 25.00,
+      "image": "./../src/assets/categories/كولا كانز.jpg",
+      "data" : [
+        {
+        "id": 61,
+        "name": "مشروب كولا لتر" ,
+        "category": "مشروبات",
+        "available": true,
+        "image": "../src/assets/recipes/مشروبات/مشروب كولا لتر.jpg" ,
+        "pricee": 25.00
+        
+        },
+        {
+        "id": 62,
+        "name": " كولا كانز" ,
+        "category": "مشروبات",
+        "available": true,
+        "image": "../src/assets/recipes/مشروبات/كولا كانز.jpg" ,
+        "pricee": 20.00
+        },
+        {
+        "id": 63,
+        "name": "ببسي كانز" ,
+        "category": "مشروبات",
+        "available": true,
+        "image": "../src/assets/recipes/مشروبات/كانز.jpg" ,
+        "pricee": 20.00
+        },
+        {
+        "id": 64,
+        "name": "مياه معدنيه صغيره" ,
+        "category": "مشروبات",
+        "available": true,
+        "image": "../src/assets/recipes/مشروبات/مياه معدنية صغيرة.jpg" ,
+        "pricee": 10.00
+        }
+      ]
+    } 
+   
+ 
+
+
+
+
+
+  ],
+  "offer" : [
+    {
+      "id": 1,
+      "name": "صنيه الحريفة" ,
+      "category": "العروض",
+      "star": "4.5",
+      "available": true,
+      "image": "./../src/assets/offer/صنيه الحريفه.jpeg",
+      "description" : "عبارة عن كيلو أرز + نصف كيلو كفته لحم + 3 سيخ شيش 12 قطعة + فرخة تكا" ,
+      "price": "700.00  "
+    } ,
+    {
+      "id": 2,
+      "name": "تكيه الاسود" ,
+      "category": "العروض",
+      "star": "4.2",
+      "available": true,
+      "image": "./../src/assets/offer/تكيه الاسود.jpg",
+      "description" : "تص فرخة شوايا سوري +نص كيلوشاورما + عدد 4 قطع بروستد + 4 قطع كرسبي +ارز + بطاطس" ,
+      "price": "830.00  "
+    },
+    {
+      "id": 3,
+      "name": "تكيه الوحوش" ,
+      "category": "العروض",
+      "star": "5.0",
+      "available": true,
+      "image": "./../src/assets/offer/تكيه الوحوش.jpeg",
+      "description" : "عدد 24 لقمة شاورما عربي + عدد 4 قطع بروستد + 4 قطع كرسبي + بطاطس" ,
+      "price": "680.00  "
+    },
+    {
+      "id": 4,
+      "name": "تكيه الابطال" ,
+      "category": "العروض",
+      "star": "5",
+      "available": true,
+      "image": "./../src/assets/offer/تكيه الابطال.jpg",
+      "description" : "تص فرخة شوايا سوري +750 جرام شاورما +ارز + بطاطس" ,
+      "price": "700.00  "
+    },
+    {
+      "id": 5,
+      "name": "عرض التوفير" ,
+      "category": "العروض",
+      "star": "4.0",
+      "available": true,
+      "image": "./../src/assets/offer/عرض التوفير.webp",
+      "description" : "سندوتش شاورما فراخ +3 قطع كرسبيى + فتة شاورما فراخ + بطاطس + كولا" ,
+      "price": "120.00  "
+    },
+    {
+      "id": 6,
+      "name": "عرض القاضيه" ,
+      "category": "العروض",
+      "star": "4.7",
+      "available": true,
+      "image": "./../src/assets/offer/عرض القاضيه.jpg",
+      "description" : "تنين فراخ سوري  + كولا 2" ,
+      "price": "60.00  "
+    },
+    {
+      "id": 7,
+      "name": "عرض القنابل" ,
+      "category": "العروض",
+      "star": "4.2",
+      "available": true,
+      "image": "./../src/assets/offer/عرض القنابل.webp",
+      "description" : "شاورما فراخ + قطع مكعبات كرسبي + ارز بسمتى+ عيش محمص + صوص ريزو" ,
+      "price": "100.00  "
+    },
+    {
+      "id": 8,
+      "name": "عرض المزاج 4" ,
+      "category": "العروض",
+      "star": "4.9",
+      "available": true,
+      "image": "./../src/assets/offer/عرض المزاج 4.jpeg",
+      "description" : "شاورما سوري قطع + عيش محمص + ميني كريب + بطاطس + تومية + مخلل + كاتشب " ,
+      "price": "200.00  "
+    },
+    {
+      "id": 9,
+      "name": "عرض المزاج 1" ,
+      "category": "العروض",
+      "star": "4.4",
+      "available": true,
+      "image": "./../src/assets/offer/عرض المزاج1.jpeg",
+      "description" : "3 سندوتش شاورما سوريى  " ,
+      "price": "200.00  "
+    },
+    {
+      "id": 10,
+      "name": "عرض اليوم " ,
+      "category": "العروض",
+      "star": "4.2",
+      "available": true,
+      "image": "./../src/assets/offer/عرض اليوم.jfif",
+      "description" : "فتة شاورما + نص فرخة بروستد + بطاطس + كولا" ,
+      "price": "200.00  "
+    },
+    {
+      "id": 11,
+      "name": "عرض أون فاير 1 " ,
+      "category": "العروض",
+      "star": "5.0",
+      "available": true,
+      "image": "./../src/assets/offer/عرض اون فاير.jfif",
+      "description" : "ربع فرخة تكا علي الفحم + سيخ كغتة فراخ" ,
+      "price": "250.00  "
+    }
+  ] 
+
+}
