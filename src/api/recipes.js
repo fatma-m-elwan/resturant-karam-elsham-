@@ -2,5 +2,5 @@ import axios from "axios";
 
 
 export default axios.create({
-    baseURL: "http://localhost:10000"
+    baseURL: "https://json-server-karam.glitch.me"
 })
